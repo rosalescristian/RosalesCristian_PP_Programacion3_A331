@@ -1,0 +1,36 @@
+[
+    {
+        "id": 6308,
+        "nombre": "nombreProducto",
+        "precio": "150",
+        "tipo": "Smartphone",
+        "marca": "ShangTsun",
+        "stock": "100",
+        "imagen": {
+            "name": "images.jpeg",
+            "full_path": "images.jpeg",
+            "type": "image\/jpeg",
+            "tmp_name": "D:\\Xampp\\tmp\\phpDBFA.tmp",
+            "error": 0,
+            "size": 5106
+        }
+    },
+    {
+        "id": 8766,
+        "nombre": "nombreProducto",
+        "precio": "150",
+        "tipo": "Smartphone",
+        "marca": "ShangTsun",
+        "stock": "100",
+        "imagen": "\/Tienda\/Fotos\/8766-nombreProducto-images.jpeg"
+    },
+    {
+        "id": 4022,
+        "nombre": "nombreProducto",
+        "precio": "150",
+        "tipo": "Smartphone",
+        "marca": "ShangTsun",
+        "stock": "100",
+        "imagen": "\/ImagenesDeProductos\/20244022-nombreProducto-images.jpeg"
+    }
+]
